@@ -1,4 +1,4 @@
-module github.com/ydnar/wasi-http-go
+module github.com/mossaka/wasi-http-go-fork
 
 go 1.23.0
 
